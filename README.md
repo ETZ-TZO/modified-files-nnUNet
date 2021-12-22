@@ -6,4 +6,4 @@ All changes are indicated by a comment stating 'Sander edit'.
 
 The code is dependend on the names of our datafiles (niftis) to distinguish between BraTS data and our own data. 
 
-Code was tested with nnunet 1.6.6
+Code was tested with nnunet version 1.6.6
